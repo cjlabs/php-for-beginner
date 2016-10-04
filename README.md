@@ -1,6 +1,6 @@
 # php-for-beginner
 
-freee php tutorial for beginner
+free php tutorial for beginner
 
 
 
