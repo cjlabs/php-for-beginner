@@ -1,9 +1,6 @@
 # Summary
 
 ## Introduction
-* Composer
-
-## Introduction
 
 ## Testing
 * [Introduction](README.md)
