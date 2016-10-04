@@ -1,12 +1,12 @@
 # Summary
 
 ## Introduction
-* [Introduction](README.md)
 * Composer
 
 ## Introduction
 
 ## Testing
+* [Introduction](README.md)
 * Testing
 * k
 
