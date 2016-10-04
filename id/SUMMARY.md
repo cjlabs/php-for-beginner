@@ -1,7 +1,7 @@
 # Summary
 
 ## Introduction
-* [Instalasi](README.md)
+* [Instalasi](id/README.md)
 * Mengenal Composer
 
 ## Testing
