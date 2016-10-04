@@ -1,6 +1,6 @@
 # Summary
 
-## Introduction
+## General
 * [Introduction](README.md)
 * [Mengenal PHP](mengenal-php.md)
 * [Instalasi](id/README.md)
