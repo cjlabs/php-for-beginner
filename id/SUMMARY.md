@@ -8,6 +8,8 @@
 
 ## Testing
 * [Unit Testing](unit-testing.md)
+* Functional Testing
+* Continues Integration
 
 ## OOP
 * Konsep Dasar OOP
