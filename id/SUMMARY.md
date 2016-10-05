@@ -4,12 +4,11 @@
 * [Introduction](README.md)
 * [Mengenal PHP](mengenal-php.md)
 * [Instalasi](id/README.md)
-* [Mengenal Composer](mengenal-composer.md)
 
 ## Testing
 * [Unit Testing](unit-testing.md)
-* Functional Testing
-* Continues Integration
+* [Functional Testing](functional-testing.md)
+* [Continues Integration](continues-integration.md)
 
 ## Basic PHP
 * String
@@ -17,11 +16,12 @@
 
 ## OOP
 * Konsep Dasar OOP
+* [Mengenal Composer](mengenal-composer.md)
 * Mengenal PHP Framework
 
 ## Links
 * [PHP Usefull Resources](links.md)
-* Symfony
+* [Symfony](symfony.md)
 * Laravel
 * Codeigniter
 
