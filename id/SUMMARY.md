@@ -15,4 +15,5 @@
 * Konsep Dasar OOP
 
 ## Studi Case
+* [Links](links.md)
 
