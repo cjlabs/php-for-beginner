@@ -12,6 +12,8 @@
 * Continues Integration
 
 ## Basic PHP
+* String
+* Array
 
 ## OOP
 * Konsep Dasar OOP
