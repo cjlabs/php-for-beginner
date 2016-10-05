@@ -20,5 +20,9 @@
 * Mengenal PHP Framework
 
 ## Studi Case
-* [Links](links.md)
+
+## Links
+* [PHP Usefull Resources](links.md)
+* Symfony
+* Laravel
 
