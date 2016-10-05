@@ -19,8 +19,6 @@
 * Konsep Dasar OOP
 * Mengenal PHP Framework
 
-## Studi Case
-
 ## Links
 * [PHP Usefull Resources](links.md)
 * Symfony
