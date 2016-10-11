@@ -6,10 +6,11 @@
 * [Instalasi](id/README.md)
 
 ## Basic PHP
-* [String](string.md)
 * Array
 * Percabangan
 * Perulangan
+* Operator
+* [String](string.md)
 
 ## Testing
 * [Unit Testing](unit-testing.md)
