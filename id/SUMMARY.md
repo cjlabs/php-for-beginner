@@ -24,10 +24,4 @@
 
 ## Links
 * [PHP Usefull Resources](links.md)
-* [Symfony](symfony.md)
-    * API Development
-* Laravel
-    * API Development
-* Codeigniter
-    * API Development
 
