@@ -4,7 +4,7 @@
 * [Pendahuluan](README.md)
 * [Mengenal PHP](mengenal-php.md)
 * [Instalasi](id/README.md)
-* Code Editor \(IDE\)
+* [Code Editor \(IDE\)](code-editor-ide.md)
 
 ## Basic PHP
 * Array
