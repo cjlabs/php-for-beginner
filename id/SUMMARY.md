@@ -13,6 +13,9 @@
 * [Percabangan](percabangan.md)
 * [Perulangan](perulangan.md)
 * [String](string.md)
+* Sessions
+* File Handling
+* Error Handling
 
 ## Testing
 * [Unit Testing](unit-testing.md)
