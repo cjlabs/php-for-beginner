@@ -2,19 +2,13 @@ Code editor adalah tool yang digunakan untuk editing code, seperti halnya aplika
 
 berikut beberapa text editor yang bisa anda gunakan untuk memulai belajar php:
 
-
-
-* Sublime Text
-
+* [Sublime Text](https://www.sublimetext.com/)
 
 * [Visual Studio Code](https://code.visualstudio.com)
 
-
 * Atom
 
-
 * Netbeans
-
 
 ### 
 
