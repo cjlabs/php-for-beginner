@@ -8,10 +8,10 @@
 * [Git Basic](git-basic.md)
 
 ## Basic PHP
-* Array
-* Operator
-* Percabangan
-* Perulangan
+* [Array](array.md)
+* [Operator](operator.md)
+* [Percabangan](percabangan.md)
+* [Perulangan](perulangan.md)
 * [String](string.md)
 
 ## Testing
