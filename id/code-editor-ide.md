@@ -6,9 +6,10 @@ berikut beberapa text editor yang bisa anda gunakan untuk memulai belajar php:
 
 * [Visual Studio Code](https://code.visualstudio.com)
 
-* Atom
+* [Atom](https://atom.io/)
 
-* Netbeans
+* [Netbeans](https://netbeans.org/)
+
 
 ### 
 
