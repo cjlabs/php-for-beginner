@@ -8,11 +8,11 @@
 * [Git Basic](git-basic.md)
 
 ## Basic PHP
+* [String](string.md)
 * [Array](array.md)
 * [Operator](operator.md)
 * [Percabangan](percabangan.md)
 * [Perulangan](perulangan.md)
-* [String](string.md)
 * Sessions
 * File Handling
 * Error Handling
