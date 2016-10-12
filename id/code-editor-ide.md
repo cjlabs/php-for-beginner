@@ -8,11 +8,5 @@ berikut beberapa text editor yang bisa anda gunakan untuk memulai belajar php:
 
 ### Netbeans
 
-
-
-
-
-
-
-
+### Visual Studio Code
 
