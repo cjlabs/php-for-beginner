@@ -5,6 +5,7 @@
 * [Mengenal PHP](mengenal-php.md)
 * [Instalasi](id/README.md)
 * [Code Editor](code-editor-ide.md)
+* [Git Basic](git-basic.md)
 
 ## Basic PHP
 * Array
