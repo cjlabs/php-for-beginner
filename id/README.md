@@ -2,5 +2,9 @@
 
 ---
 
-Di beberapa forum php, sangat sering kita temui pertanyaan yang kurang lebih isinya 'saya masih pemula php, dan bagaimana caranya belajar php'. sebenarnya di internet banyak sekali artikel-artikel, tutorial tentang php. 
+Di beberapa forum php, sangat sering kita temui pertanyaan yang kurang lebih isinya 'saya masih pemula php, dan bagaimana caranya belajar php'. sebenarnya di internet banyak sekali artikel-artikel, tutorial tentang php yang bisa kita explore dan pelajari, hanya saja bagi pemula memang bingung menentukan starting point untuk belajarnya.
+
+
+
+
 
