@@ -7,9 +7,9 @@
 
 ## Basic PHP
 * Array
+* Operator
 * Percabangan
 * Perulangan
-* Operator
 * [String](string.md)
 
 ## Testing
