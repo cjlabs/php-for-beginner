@@ -1,4 +1,4 @@
-# Git Basic
+# Pengenalan Git 
 
 ---
 
@@ -11,4 +11,11 @@ Disini hanya akan di ajarkan basic bagaimana menggunakan git, untuk tutorial git
 * [https:\/\/www.atlassian.com\/git\/tutorials\/ ](https://www.atlassian.com/git/tutorials/)
 * [https:\/\/git-scm.com\/book\/en\/v2](https://git-scm.com/book/en/v2)
 * [http:\/\/www.tutorialspoint.com\/git](http://www.tutorialspoint.com/git/)
+
+
+## Dasar-dasar git
+
+### Installasi
+
+
 
