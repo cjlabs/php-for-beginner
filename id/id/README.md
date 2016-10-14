@@ -2,11 +2,11 @@ untuk memudahkan kita akan menggunakan  aplikasi yang sudah satu bundle \(web se
 
 # XAMPP
 
-**Install xampp di windows**
+### **Install xampp di windows**
 
 download xamp https:\/\/www.apachefriends.org\/download.html sesuaikan dengan sistem operasi yang akan kita install xampp, di windows tinggal klik installernya maka xampp akan otomatis terinstall di windows
 
-**Install xampp di ubuntu**
+### **Install xampp di ubuntu**
 
 download xamp https:\/\/www.apachefriends.org\/download.html sesuaikan dengan sistem operasi yang akan kita install xampp
 
@@ -17,11 +17,9 @@ set permission filenya supaya bisa di eksekusi
  sudo chmod +x xampp-linux-x64-5.6.8-0-installer.run
 ```
 
-install xampp dengan perintah 
+install xampp dengan perintah
 
 ```
 sudo ./xampp-linux-x64-5.6.8-0-installer.run
 ```
-
-
 
