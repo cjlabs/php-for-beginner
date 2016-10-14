@@ -8,7 +8,7 @@
 * [Pengenalan Git](git-basic.md)
 
 ## Basic PHP
-* Variable
+* [Variable](variable.md)
 * [String](string.md)
 * [Array](array.md)
 * [Operator](operator.md)
@@ -25,9 +25,9 @@
 * [Continues Integration](continues-integration.md)
 
 ## OOP
-* Konsep Dasar OOP
+* [Konsep Dasar OOP](konsep-dasar-oop.md)
 * [Mengenal Composer](mengenal-composer.md)
-* Mengenal PHP Framework
+* [Mengenal PHP Framework](mengenal-php-framework.md)
 
 ## Links
 * [PHP Usefull Resources](links.md)
