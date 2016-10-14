@@ -1,4 +1,6 @@
-untuk memudahkan kita akan menggunakan  aplikasi yang sudah satu bundle \(web server, php, mysql\), beberapa aplikasi yang bisa di gunakan adalah xampp, wamp
+
+
+Untuk memudahkan kita akan menggunakan  aplikasi yang sudah satu bundle \(web server, php, mysql\), beberapa aplikasi yang bisa di gunakan adalah xampp, wamp
 
 # XAMPP
 
