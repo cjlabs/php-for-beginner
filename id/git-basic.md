@@ -1,4 +1,4 @@
-# Pengenalan Git 
+# Pengenalan Git
 
 ---
 
@@ -12,10 +12,29 @@ Disini hanya akan di ajarkan basic bagaimana menggunakan git, untuk tutorial git
 * [https:\/\/git-scm.com\/book\/en\/v2](https://git-scm.com/book/en/v2)
 * [http:\/\/www.tutorialspoint.com\/git](http://www.tutorialspoint.com/git/)
 
-
 ## Dasar-dasar git
 
+---
+
 ### Installasi
+
+### Membuat repository
+
+### Clone repository
+
+### Menambahkan File
+
+### Mengambil file terbaru dari server
+
+### Mengupdate perubahan file di local
+
+### Manguplad file ke server 
+
+### Membuat Branch
+
+### Menggabungkan Branch
+
+### Menghapus Branch
 
 
 
