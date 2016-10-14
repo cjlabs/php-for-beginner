@@ -15,6 +15,7 @@ set permission filenya supaya bisa di eksekusi
 ```bash
 
  sudo chmod +x xampp-linux-x64-5.6.8-0-installer.run
+
 ```
 
 install xampp dengan perintah
