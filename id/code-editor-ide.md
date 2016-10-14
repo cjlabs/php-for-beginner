@@ -8,11 +8,14 @@ berikut beberapa text editor yang bisa anda gunakan untuk memulai belajar php:
 
 * [Sublime Text](https://www.sublimetext.com/)
 
-* [Visual Studio Code](https://code.visualstudio.com)
-
 * [Atom](https://atom.io/)
 
 * [Netbeans](https://netbeans.org/)
+
+* [Visual Studio Code](https://code.visualstudio.com)
+
+* [Bracket](http://brackets.io/)
+
 
 
 ### 
