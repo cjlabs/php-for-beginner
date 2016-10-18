@@ -18,9 +18,17 @@ Disini hanya akan di ajarkan basic bagaimana menggunakan git, untuk tutorial git
 
 ---
 
-### Installasi
+Kita akan menggunakan github sebagai server git tempat menyimpan repository, karena free, beberapa alternatif selain github anda bisa coba gitlab ataupun mencoba bitbucket, konsepnya sama, untuk menyeragamkan kita ambil contoh menggunakan github saja.
+
+
+
+### Installasi Git Di local
+
+
 
 ### Membuat repository
+
+
 
 ### Clone repository
 
