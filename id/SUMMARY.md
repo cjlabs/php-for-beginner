@@ -10,7 +10,7 @@
 ## Basic PHP
 * [Pengenalan Syntax](pengenalan-syntax.md)
 * [Variable](variable.md)
-* [Comment](comment.md)
+* [Komentar](comment.md)
 * [String](string.md)
 * [Array](array.md)
 * [Operator](operator.md)
