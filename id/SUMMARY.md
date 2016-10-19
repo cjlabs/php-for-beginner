@@ -9,7 +9,7 @@
 
 ## Basic PHP
 * [Variable](variable.md)
-* Comment
+* [Comment](comment.md)
 * [String](string.md)
 * [Array](array.md)
 * [Operator](operator.md)
