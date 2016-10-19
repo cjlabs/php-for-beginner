@@ -24,6 +24,9 @@
 * [Functional Testing](functional-testing.md)
 * [Continues Integration](continues-integration.md)
 
+## Database Connection
+* PDO
+
 ## OOP
 * [Konsep Dasar OOP](konsep-dasar-oop.md)
 * [Mengenal Composer](mengenal-composer.md)
