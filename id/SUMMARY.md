@@ -9,6 +9,7 @@
 
 ## Basic PHP
 * [Variable](variable.md)
+* Comment
 * [String](string.md)
 * [Array](array.md)
 * [Operator](operator.md)
@@ -17,7 +18,7 @@
 * [Sessions](sessions.md)
 * [Form Handling](form-handling.md)
 * [File Handling](file-handling.md)
-* [Error Handling](error-handling.md)
+* Comment
 
 ## Testing
 * [Unit Testing](unit-testing.md)
