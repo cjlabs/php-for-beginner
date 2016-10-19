@@ -26,6 +26,7 @@
 
 ## Database Connection
 * PDO
+* MySQL
 
 ## OOP
 * [Konsep Dasar OOP](konsep-dasar-oop.md)
