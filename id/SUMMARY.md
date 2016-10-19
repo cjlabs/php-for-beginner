@@ -8,6 +8,7 @@
 * [Pengenalan Git](git-basic.md)
 
 ## Basic PHP
+* Pengenalan Syntax
 * [Variable](variable.md)
 * [Comment](comment.md)
 * [String](string.md)
