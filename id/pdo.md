@@ -10,6 +10,16 @@ PDO \( PHP Data Objects\) adalah database access layer untuk mengakses database 
 
 ### Koneksi ke database
 
+### Menjalankan QUERY
+
+### Mengambil Data
+
+### Menambah Data
+
+### Menghapus Data
+
+
+
 
 
 
