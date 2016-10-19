@@ -8,6 +8,8 @@
 ### Belajar PHP Online
 
 * [http:\/\/www.w3schools.com\/php](http://www.w3schools.com/php)
+* [http:\/\/www.tutorialspoint.com\/php](http://www.tutorialspoint.com/php)
+
 
 ### PHP Framework
 
