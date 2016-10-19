@@ -16,8 +16,8 @@
 * [Perulangan](perulangan.md)
 * [Sessions](sessions.md)
 * [Form Handling](form-handling.md)
-* File Handling
-* Error Handling
+* [File Handling](file-handling.md)
+* [Error Handling](error-handling.md)
 
 ## Testing
 * [Unit Testing](unit-testing.md)
@@ -26,7 +26,7 @@
 
 ## Database Connection
 * [PDO](pdo.md)
-* MySQL
+* [MySQL](mysql.md)
 
 ## OOP
 * [Konsep Dasar OOP](konsep-dasar-oop.md)
