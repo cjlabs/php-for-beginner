@@ -14,8 +14,8 @@
 * [Operator](operator.md)
 * [Percabangan](percabangan.md)
 * [Perulangan](perulangan.md)
-* Sessions
-* Form Handling
+* [Sessions](sessions.md)
+* [Form Handling](form-handling.md)
 * File Handling
 * Error Handling
 
@@ -25,7 +25,7 @@
 * [Continues Integration](continues-integration.md)
 
 ## Database Connection
-* PDO
+* [PDO](pdo.md)
 * MySQL
 
 ## OOP
