@@ -1,6 +1,10 @@
-Mengurutkan Array
+# Array
 
-Mencari value berdasarkan key
+---
 
+### Mendefinisikan Array
 
+### Mengurutkan Array
+
+### Mencari value berdasarkan key
 
