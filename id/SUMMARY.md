@@ -19,7 +19,7 @@
 * [Sessions](sessions.md)
 * [Form Handling](form-handling.md)
 * [File Handling](file-handling.md)
-* Comment
+* [Coding Standard](comment.md)
 * Function
 
 ## Testing

@@ -1,6 +1,4 @@
-# Komentar \(Comment\)
+# Coding Standard
 
 ---
-
-
 
