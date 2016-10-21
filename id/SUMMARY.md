@@ -20,7 +20,7 @@
 * [Form Handling](form-handling.md)
 * [File Handling](file-handling.md)
 * [Coding Standard](comment.md)
-* Function
+* [Function](function.md)
 
 ## Testing
 * [Unit Testing](unit-testing.md)
