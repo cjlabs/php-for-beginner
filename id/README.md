@@ -6,5 +6,5 @@ Di beberapa forum php, sangat sering kita temui pertanyaan yang kurang lebih isi
 
 
 
-
+Ebook ini di buat untuk memudahkan anda yang baru belajar php dan menggunakan php sebagai server side scriptnya, ebook ini di susun semudah mungkin, sesederhana mungkin, dan hanya membahas hal-hal yang basic dan sangat sering di gunakan saat proses web development, sehingga anda bisa memahami konsep dasarnya dan mengaplikasikannya di berbagai case.
 
