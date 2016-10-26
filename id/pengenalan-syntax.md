@@ -41,8 +41,33 @@ $name = '';
 // variable untuk menyimpan alamat, default adalah kosong
 $address ='';
 
+```
 
- 
+**Multi-line Komentar**
+
+Multi-line Komentar adalah komentar yang bisa lebih dari satu baris, umummya untuk menjelaskan lebih detail tentang code tersebut, dan biasanya juga sebagai header sebuah file yang menjelaskan tentang code tersebut, siapa penulisnya lokasi namespace, dll, berikut adalah contohnya, cara membuat multi-line komentar adalah menggunakan **\/\*** sebagai pembukanya dan **\*\/** sebagai penutupnya, berikut adalah contohnya :
+
+```
+<?php
+
+/* 
+desc : email class to handle email 
+author : putera kahfi <puterakahfi@email.com>
+*/
+
+class Email {
+
+/**
+@desc method for send email
+@access public
+@method send
+@params $from, $to, $body
+**/
+public function send($from, $to, $body)
+{
+}
+
+}
 ```
 
 
