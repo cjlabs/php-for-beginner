@@ -22,7 +22,9 @@ echo  "Hello World";
 
 ```
 
+### Komentar
 
+Komentar merupakan bagian yang tidak akan di eksekusi oleh program, komentar biasanya di gunakan untuk menjelaskan flow, variable, method sehingga lebih mudah di fahami 
 
 
 
