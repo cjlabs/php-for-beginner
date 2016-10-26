@@ -86,9 +86,22 @@ print $bilangan;
 
 dari contoh di atas ada dua statement, yang pertama adalah variable bilangan untuk menyimpan bilangan dan di beri nilai 1, kemudian statement kedua adalah menampilkan bilangan \( hasilnya adalah 1\)
 
-
-
 **Bracket untuk block statement yang lebih dari satu**
+
+untuk mengelompokkan statement ke dalam satu group bisa menggunakan bracket { }, sehingga kode yang berada di dalam bracket masuk ke dalam group tersebut, biasanya ini di kombinasikan dengan kondisi, looping, contohnya adalah sebagai berikut :
+
+```
+<?php
+# variabel bilangan
+$bilangan = 10;
+if($bilangan %2== 0){
+    echo  " bilangan yang di inputkan adalah $bilangan";
+    echo  " $bilangan adalah bilangan genap"; 
+}else{
+    echo " bilangan yang di inputkan adalah $bilangan";
+    echo " $bilangan adalah bilangan ganjil";
+}
+```
 
 
 
