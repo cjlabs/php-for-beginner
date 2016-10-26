@@ -24,7 +24,26 @@ echo  "Hello World";
 
 ### Komentar
 
-Komentar merupakan bagian yang tidak akan di eksekusi oleh program, komentar biasanya di gunakan untuk menjelaskan flow, variable, method sehingga lebih mudah di fahami 
+Komentar merupakan bagian yang tidak akan di eksekusi oleh program, komentar biasanya di gunakan untuk menjelaskan flow, variable, method sehingga lebih mudah di fahami
+
+**Single-line Komentar**
+
+Single-line komentar adalah komentar\/keterangan yang hanya satu baris, biasanya di gunakan untuk memberikan  secara singkat tentang code tersebut, ada dua cara yang bisa anda gunakan untuk menuliskan single-line komentar, pertama menggunakan '**\#'**  atau menggunakan '**\/\/',** berikut adalah contohnya :
+
+```php
+<?php
+
+# single-line komentar dengan '#'
+# variable untuk menyimpan nama, default adalah kosong
+$name = '';
+
+// single-line komentar dengan  '//'
+// variable untuk menyimpan alamat, default adalah kosong
+$address ='';
+
+
+ 
+```
 
 
 
