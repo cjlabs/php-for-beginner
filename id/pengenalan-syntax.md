@@ -51,7 +51,7 @@ Multi-line Komentar adalah komentar yang bisa lebih dari satu baris, umummya unt
 <?php
 
 /* 
-desc : email class to handle email 
+desc   : email class to handle email 
 author : putera kahfi <puterakahfi@email.com>
 */
 
@@ -69,6 +69,30 @@ public function send($from, $to, $body)
 
 }
 ```
+
+**Semicolon**
+
+semicolon di gunakan untuk mengakhiri\(terminated\) sebuah statement, php menggunakan ; untuk mengakhiri statement code
+
+contoh :
+
+```
+<?php
+# file : semicolon.php
+
+$bilangan = 1;
+print $bilangan;
+```
+
+dari contoh di atas ada dua statement, yang pertama adalah variable bilangan untuk menyimpan bilangan dan di beri nilai 1, kemudian statement kedua adalah menampilkan bilangan \( hasilnya adalah 1\)
+
+
+
+**Bracket untuk block statement yang lebih dari satu**
+
+
+
+
 
 
 
