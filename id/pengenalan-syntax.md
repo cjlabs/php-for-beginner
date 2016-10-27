@@ -95,9 +95,11 @@ untuk mengelompokkan statement ke dalam satu group bisa menggunakan bracket { },
 # variabel bilangan
 $bilangan = 10;
 if($bilangan %2== 0){
+    # block pertama
     echo  " bilangan yang di inputkan adalah $bilangan";
     echo  " $bilangan adalah bilangan genap"; 
 }else{
+    # block kedua
     echo " bilangan yang di inputkan adalah $bilangan";
     echo " $bilangan adalah bilangan ganjil";
 }
@@ -105,7 +107,5 @@ if($bilangan %2== 0){
 
 
 
-
-
-
+pada contoh diatas ada statement ada pengecekan apakah bilangan habis di bagi dua, jika iya maka block yang akan di eksekusi adalah block pertama, jika tidak maka block yang akan di eksekusi adalah block ke dua
 
