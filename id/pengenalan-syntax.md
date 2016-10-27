@@ -109,8 +109,6 @@ pada contoh diatas ada statement untuk untuk  pengecekan apakah bilangan habis d
 
 contoh di atas adalah contoh single block, kita akan sangat sering menemukan atau menggunakan multiple block, di dalam block ada block lagi, dan seterusnya, kita akan ambil contoh diatas dan kita kembangkan menjadi multi block, misalnya kita inputkan serangkaian bilangan, kemudian bilangan tersebut di loop, kemudian ceck  apakah bilangan tersebut ganjil atau genap, berikut adalah contohnya :
 
-
-
 ```
 
 <?php
@@ -121,21 +119,12 @@ foreach($bilangan as $val)
 #block pertama
 if($val %2== 0){
     # block kedua
-    echo  " bilangan yang di inputkan adalah $bilangan \n";
-    echo  " $bilangan adalah bilangan genap \n"; 
+    echo  " bilangan yang di inputkan adalah $val \n";    
+    echo  " $val adalah bilangan genap \n"; 
 }else{
     # block ketiga
-    echo " bilangan yang di inputkan adalah $bilangan \n";
-    echo " $bilangan adalah bilangan ganjil \n";
-}
+    echo " bilangan yang di inputkan adalah $val \n";    
+    echo " $val adalah bilangan ganjil \n";}
 }
 ```
-
-
-
-
-
-
-
-
 
