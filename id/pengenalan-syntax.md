@@ -14,7 +14,7 @@ Untuk memulai membuat file php menggunakan  **&lt;?php,** dan di tutup dengan **
 
 contoh kode php untuk menampilkan " Hello World"  :
 
-```
+```php
 
 <?php
 
@@ -48,7 +48,7 @@ $address ='';
 
 Multi-line Komentar adalah komentar yang bisa lebih dari satu baris, umummya untuk menjelaskan lebih detail tentang code tersebut, dan biasanya juga sebagai header sebuah file yang menjelaskan tentang code tersebut, siapa penulisnya lokasi namespace, dll, berikut adalah contohnya, cara membuat multi-line komentar adalah menggunakan **\/\*** sebagai pembukanya dan **\*\/** sebagai penutupnya, berikut adalah contohnya :
 
-```
+```php
 <?php
 
 /* 
@@ -77,7 +77,7 @@ semicolon di gunakan untuk mengakhiri\(terminated\) sebuah statement, php menggu
 
 contoh :
 
-```
+```php
 <?php
 # file : semicolon.php
 
@@ -91,7 +91,7 @@ dari contoh di atas ada dua statement, yang pertama adalah variable bilangan unt
 
 untuk mengelompokkan statement ke dalam satu group bisa menggunakan bracket { }, sehingga kode yang berada di dalam bracket masuk ke dalam group tersebut, biasanya ini di kombinasikan dengan kondisi, looping, contohnya adalah sebagai berikut :
 
-```
+```php
 <?php
 # variabel bilangan
 $bilangan = 10;
@@ -111,7 +111,6 @@ pada contoh diatas ada statement untuk untuk  pengecekan apakah bilangan habis d
 contoh di atas adalah contoh single block, kita akan sangat sering menemukan atau menggunakan multiple block, di dalam block ada block lagi, dan seterusnya, kita akan ambil contoh diatas dan kita kembangkan menjadi multi block, misalnya kita inputkan serangkaian bilangan, kemudian bilangan tersebut di loop, kemudian ceck  apakah bilangan tersebut ganjil atau genap, berikut adalah contohnya :
 
 
-{% gist id="https://gist.github.com/puterakahfi/fae79f0e1fa866299de87f4b4bbc8cee" %} {% endgist %}
 
 
 ```php
