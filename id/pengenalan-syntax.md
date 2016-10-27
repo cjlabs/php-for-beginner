@@ -105,7 +105,9 @@ if($bilangan %2== 0){
 }
 ```
 
+pada contoh diatas ada statement untuk untuk  pengecekan apakah bilangan habis di bagi dua, jika iya, maka bilangan tersebut dalah bilangan genap dan block yang akan di eksekusi adalah block pertama, jika tidak maka block yang akan di eksekusi adalah block ke dua.
+
+contoh di atas adalah contoh single block, kita akan sangat sering menemukan atau menggunakan multiple block, di dalam block ada block lagi, dan seterusnya, kita akan ambil contoh diatas dan kita kembangkan menjadi multi block, misalnya kita inputkan serangkaian bilangan, kemudian bilangan tersebut di loop, kemudian ceck  apakah bilangan tersebut ganjil atau genap, berikut adalah contohnya :
 
 
-pada contoh diatas ada statement ada pengecekan apakah bilangan habis di bagi dua, jika iya maka block yang akan di eksekusi adalah block pertama, jika tidak maka block yang akan di eksekusi adalah block ke dua
 
