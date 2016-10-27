@@ -31,6 +31,7 @@ Komentar merupakan bagian yang tidak akan di eksekusi oleh program, komentar bia
 Single-line komentar adalah komentar\/keterangan yang hanya satu baris, biasanya di gunakan untuk memberikan  secara singkat tentang code tersebut, ada dua cara yang bisa anda gunakan untuk menuliskan single-line komentar, pertama menggunakan '**\#'**  atau menggunakan '**\/\/',** berikut adalah contohnya :
 
 ```php
+
 <?php
 
 # single-line komentar dengan '#'
