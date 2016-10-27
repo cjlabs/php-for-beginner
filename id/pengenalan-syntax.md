@@ -109,7 +109,10 @@ pada contoh diatas ada statement untuk untuk  pengecekan apakah bilangan habis d
 
 contoh di atas adalah contoh single block, kita akan sangat sering menemukan atau menggunakan multiple block, di dalam block ada block lagi, dan seterusnya, kita akan ambil contoh diatas dan kita kembangkan menjadi multi block, misalnya kita inputkan serangkaian bilangan, kemudian bilangan tersebut di loop, kemudian ceck  apakah bilangan tersebut ganjil atau genap, berikut adalah contohnya :
 
-```
+<script src="https://gist.github.com/puterakahfi/fae79f0e1fa866299de87f4b4bbc8cee"></script>
+
+
+```php
 
 <?php
 # variabel bilangan
