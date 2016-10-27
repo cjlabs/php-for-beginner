@@ -111,3 +111,31 @@ contoh di atas adalah contoh single block, kita akan sangat sering menemukan ata
 
 
 
+```
+
+<?php
+# variabel bilangan
+$bilangan = array(1,2,3,4,5,6,7,8,9,10);
+foreach($bilangan as $val)
+{
+#block pertama
+if($val %2== 0){
+    # block kedua
+    echo  " bilangan yang di inputkan adalah $bilangan \n";
+    echo  " $bilangan adalah bilangan genap \n"; 
+}else{
+    # block ketiga
+    echo " bilangan yang di inputkan adalah $bilangan \n";
+    echo " $bilangan adalah bilangan ganjil \n";
+}
+}
+```
+
+
+
+
+
+
+
+
+
