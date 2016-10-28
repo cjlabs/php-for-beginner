@@ -40,8 +40,10 @@ Tidak ada aturan yang baku tentang bagaimana menuliskan variable di php, selama 
 * **Konsisten dalam penulisan**
   konsisten dalam penulisan juga cukup membantu supaya kode kita lebih standard dan seragam, misalnya kita menggunakan underscore atau camel case untuk memisahkan variable yang terdiri dari dua kata, contoh : $nama\_lengkap, atau $namaLengkap, silahkan gunakan yang mana saja asal konsisten
 
-* 
-* 
+* **Konsisten dalam penggunaan bahasa**
+  hal ini juga penting, untuk menjaga konsistensi bahasa, sebaiknya gunakan bahasa standard internasional yaitu bahasa inggris
+  ## 
+
 
 ## Tipe-tipe variable di php
 
