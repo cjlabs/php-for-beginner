@@ -13,12 +13,19 @@ php punya aturan dan ketentuan-ketentuan terkait dengan pendefinisian variable  
 * tidak boleh ada spasi unuk memisahkan nama variable, gunakan underscore \('\_'\) atau camelCase 
 * tidak boleh menggunakan angka setelah tanda **$, **variable boleh di awali dengan huruf, underscore
 * kombinasi variable hanya terdiri dari huruf, angka dan underscore, selain dari kombinasi tersebut tidak di perbolehkan
-
+* tidak boleh menggunakan reserved word dari php
 
 **berikut adalah contoh penulisan variable yang benar :**
-* $nama 
-* $\_nama
-* $n4ma
+
+* $nama, $NAMA, $Nama, $N4m4  \(menggunakan huruf semua, baik huruf kecil semua, huruf besar semua maupun kombinasi keduanya, atau kombinasi dari huruf dan angka, selama tidak menggunakan angka di awal nama variable\)
+
+* $\_nama, $\_NAMA, $\_Nama, $Nam4  \(diawali dengan underscore dan di ikuti huruf, angka, maupun kombinasi dari huruf angka dan underscore\)
+
+
+**Berikut adalah contoh penulisan variable yang tidak di perbolehkan :**
+* $4lamat  \( tidak boleh di awali dengan angka\)
+* $print    \( tidak boleh menggunakan reserved word di php, walaupun masih bisa di eksekusi \)
+* $alamat-lengkap \( tidak boleh menggunakan karakter selain underscore\)
 
 
 
