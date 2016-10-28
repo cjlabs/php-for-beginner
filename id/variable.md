@@ -23,15 +23,23 @@ php punya aturan dan ketentuan-ketentuan terkait dengan pendefinisian variable  
 
 
 **Berikut adalah contoh penulisan variable yang tidak di perbolehkan :**
+
 * $4lamat  \( tidak boleh di awali dengan angka\)
 * $print    \( tidak boleh menggunakan reserved word di php, walaupun masih bisa di eksekusi \)
 * $alamat-lengkap \( tidak boleh menggunakan karakter selain underscore\)
 
+### **Bagaimana mendefinisikan variable di php **
 
+Tidak ada aturan yang baku tentang bagaimana menuliskan variable di php, selama tidak melanggar aturan dari php maka variable bisa di gunakan, hanya saja beberapa tips berikut bisa membantu kita untuk mendefinisikan variable dengan baik
 
-### **Bagaimana mendefinisikan variable di php**
+* **Gunakan nama variable yang mudah di fahami**
+  menggunakan nama variable yang mudah di fahami selain mempermudah menjelaskan fungsi variable tersebut, juga akan membantu kita untuk mengerti kegunaan variable tersebut 
+  misalnya $namaLengkap lebih mudah di fahami dari pada menggunakan $xyz $x dan yang semisalnya
 
-tidak ada aturan yang baku tentang bagaimana menuliskan variable di php, selama tidak melanggar aturan dari php maka variable bisa di gunakan, hanya saja beberapa tips berikut bisa membantu kita untuk mendefinisikan variable dengan baik
+* **Konsisten dalam penulisan**
+  konsisten dalam penulisan juga cukup membantu supaya kode kita lebih standard dan seragam, misalnya kita menggunakan underscore atau camel case untuk memisahkan variable yang terdiri dari dua kata, contoh : $nama\_lengkap, atau $namaLengkap, silahkan gunakan yang mana saja asal konsisten
+
+*  
 
 ## Tipe-tipe variable di php
 
