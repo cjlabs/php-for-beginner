@@ -6,17 +6,25 @@ variable bisa dikatakan sebagai tempat untuk menyimpan suatu data atau value yan
 
 ## Ketentuan penulisan variable di php
 
-php punya aturan dan ketentuan-ketentuan terkait dengan penulisan dan penggunaan variable, diantaranya adalah :
+php punya aturan dan ketentuan-ketentuan terkait dengan pendefinisian variable  diantaranya adalah :
 
-* nama variable harus di awali dengan tanda dolar\(**$**\) di ikuti dengan nama variablenya, contoh $nama = ''; 
+* nama variable harus di awali dengan tanda dolar\(**$**\) di ikuti dengan nama variablenya, contoh **$nama = ''; **
 * untuk memberikan nilai variable adalah nama variable di ikuti dengan **=** dan valuenya, contoh $nama = 'Putera Kahfi';
 * tidak boleh ada spasi unuk memisahkan nama variable, gunakan underscore \('\_'\) atau camelCase 
+* tidak boleh menggunakan angka setelah tanda **$, **variable boleh di awali dengan huruf, underscore
+* kombinasi variable hanya terdiri dari huruf, angka dan underscore, selain dari kombinasi tersebut tidak di perbolehkan
+
+
+**berikut adalah contoh penulisan variable yang benar :**
+* $nama 
+* $\_nama
+* $n4ma
+
+
 
 ### **Bagaimana mendefinisikan variable di php**
 
 tidak ada aturan yang baku tentang bagaimana menuliskan variable di php, selama tidak melanggar aturan dari php maka variable bisa di gunakan, hanya saja beberapa tips berikut bisa membantu kita untuk mendefinisikan variable dengan baik
-
-
 
 ## Tipe-tipe variable di php
 
@@ -34,8 +42,6 @@ tidak ada aturan yang baku tentang bagaimana menuliskan variable di php, selama 
 
 ### NULL
 
-
-
 ## Scope Variable
 
 ### Variable Global
@@ -45,6 +51,4 @@ tidak ada aturan yang baku tentang bagaimana menuliskan variable di php, selama 
 ### **Variable Static**
 
 ### **Function Parameter**
-
-
 
