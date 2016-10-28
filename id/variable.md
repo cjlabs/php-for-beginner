@@ -10,6 +10,14 @@ php punya aturan dan ketentuan-ketentuan terkait dengan penulisan dan penggunaan
 
 * nama variable harus di awali dengan tanda dolar\(**$**\) di ikuti dengan nama variablenya, contoh $nama = ''; 
 * untuk memberikan nilai variable adalah nama variable di ikuti dengan **=** dan valuenya, contoh $nama = 'Putera Kahfi';
+* tidak boleh ada spasi unuk memisahkan nama variable, gunakan underscore \('\_'\) atau camelCase 
+
+
+### **Bagaimana mendefinisikan variable di php**
+
+tidak ada aturan yang baku tentang bagaimana menuliskan variable di php, selama tidak melanggar aturan dari php maka variable bisa di gunakan, hanya saja beberapa tips berikut bisa membantu kita untuk mendefinisikan variable dengan baik
+
+
 
 ## Tipe-tipe variable di php
 
