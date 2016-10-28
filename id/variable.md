@@ -42,12 +42,15 @@ Tidak ada aturan yang baku tentang bagaimana menuliskan variable di php, selama 
 
 * **Konsisten dalam penggunaan bahasa**
   hal ini juga penting, untuk menjaga konsistensi bahasa, sebaiknya gunakan bahasa standard internasional yaitu bahasa inggris
+
   ## 
 
 
 ## Tipe-tipe variable di php
 
 ### String
+
+variable bertipe string adalah variable yang mengandung karakter
 
 ### Integer
 
