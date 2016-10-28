@@ -14,6 +14,7 @@ php punya aturan dan ketentuan-ketentuan terkait dengan pendefinisian variable  
 * tidak boleh menggunakan angka setelah tanda **$, **variable boleh di awali dengan huruf, underscore
 * kombinasi variable hanya terdiri dari huruf, angka dan underscore, selain dari kombinasi tersebut tidak di perbolehkan
 * tidak boleh menggunakan reserved word dari php
+* variable bersifat **case-sensitive, **artinya besar kecil huruf di anggap berbeda oleh php, $nama dan $Nama dianggap dua variable yang berbeda oleh php 
 
 **berikut adalah contoh penulisan variable yang benar :**
 
@@ -39,7 +40,8 @@ Tidak ada aturan yang baku tentang bagaimana menuliskan variable di php, selama 
 * **Konsisten dalam penulisan**
   konsisten dalam penulisan juga cukup membantu supaya kode kita lebih standard dan seragam, misalnya kita menggunakan underscore atau camel case untuk memisahkan variable yang terdiri dari dua kata, contoh : $nama\_lengkap, atau $namaLengkap, silahkan gunakan yang mana saja asal konsisten
 
-*  
+* 
+* 
 
 ## Tipe-tipe variable di php
 
