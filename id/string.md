@@ -12,9 +12,7 @@ $name = "Putera Kahfi";
 echo $greeting." ".$name;
 ```
 
-
-
-### Mengetahui jumlah karakter
+### Mengetahui panjang karakter
 
 ```
 <?php
@@ -22,6 +20,4 @@ $greeting " Hello Putera Kahfi";
 $stringLength = strlen($greeting);
 echo $stringLength;
 ```
-
-
 
