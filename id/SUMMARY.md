@@ -10,9 +10,9 @@
 ## Basic PHP
 * [Pengenalan Syntax](pengenalan-syntax.md)
 * [Variable](variable.md)
+* [Operator](operator.md)
 * [String](string.md)
 * [Array](array.md)
-* [Operator](operator.md)
 * [Percabangan](percabangan.md)
 * [Perulangan](perulangan.md)
 * [Sessions](sessions.md)
